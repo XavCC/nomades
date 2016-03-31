@@ -8,3 +8,4 @@ _photographed by Ryan McGuire and free of copyright restrictions_
 
 ## Le collaboratif dans le nomadisme
 
+## Le Nomadisme à l'âge des internets
