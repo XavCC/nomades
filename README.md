@@ -4,6 +4,10 @@ Le nomadisme est un mode de vie fondé sur le déplacement ; il est par conséqu
 ![]({{site.baseurl}}//nomade%20rabbit.jpg)
 _photographed by Ryan McGuire and free of copyright restrictions_
 
+## Pourquoi ces dépots?
+
+## Qui à générer cette intiative?
+
 ## Les différents ensembles sociaux et culturels de nomades
 
 ## Le collaboratif dans le nomadisme
