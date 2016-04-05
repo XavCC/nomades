@@ -1,12 +1,14 @@
 # Nomade
-Le nomadisme est un mode de vie fondé sur le déplacement ; il est par conséquent un mode de peuplement matéreil ou immatériel. La quête de nourriture, sous toutes notions, motive les déplacements des Hommes.
+Le nomadisme est un mode de vie fondé sur le déplacement ; il est par conséquent un mode de peuplement matériel ou immatériel. La quête de nourriture, sous toutes notions, motive les déplacements des humains.
 
-![]({{site.baseurl}}//nomade%20rabbit.jpg)
-_photographed by Ryan McGuire and free of copyright restrictions_
+Le nomade est celui qui se déplace. Il est celui qui peuple les territoires, les courants, la connaissance.C'est le besoin de se nourrir des fruits de la terre et des graines des savoirs.
+
 
 ## Pourquoi ces dépots?
 
 ## Qu'est ce qui à généré cette intiative?
+
+## Comment contribuer à alimenter ces dépots? 
 
 ## Les différents ensembles sociaux et culturels de nomades
 
