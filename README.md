@@ -6,7 +6,7 @@ _photographed by Ryan McGuire and free of copyright restrictions_
 
 ## Pourquoi ces dépots?
 
-## Qui à générer cette intiative?
+## Qu'est ce qui à généré cette intiative?
 
 ## Les différents ensembles sociaux et culturels de nomades
 
