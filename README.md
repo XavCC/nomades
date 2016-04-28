@@ -28,10 +28,16 @@ Voici un bon exercice à faire soi même documenté sur multibao.org qui vous pe
 
 - [Je me teste](http://www.multibao.org/)
 
-Toute contribution est la bienvenue dans le respect des individus et de leurs vécus, la bienveillance envers chaque contribution apportée est une règle de base du bien faire ensemeble entre les différents contibuteurs. 
-La mise ne consensus de chaque proposition et sur chaque modification est un morceau de jardin à cultiver ensemble. 
+Toute contribution est la bienvenue dans le respect des individus et de leurs vécus, la bienveillance envers chaque contribution apportée est une règle de base du bien faire ensemble entre les différents contibuteurs. 
+La mise en consensus de chaque proposition et sur chaque modification est un morceau de jardin à cultiver ensemble. 
 
 ## Les différents ensembles sociaux et culturels de nomades
+
+- Les voyageurs
+- Les pollinisateurs
+- Les aventuriers
+- Les réfugiers
+- Les 
 
 ## Le collaboratif dans le nomadisme
 
