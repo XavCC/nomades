@@ -38,6 +38,17 @@ La mise en consensus de chaque proposition et sur chaque modification est un mor
 - Les aventuriers
 - Les réfugiers
 - Les faiseurs
+- Semi nomadisme
+- Nomade
+
+
+D'après Wikipédia: 
+
+    Le travail nomade concernerait entre 7 % et 10 % des salariés français.
+    Le nomadisme [lequel ?] représenterait, quant à lui, 20 % de la population active.
+    73 % des cadres français travaillent en dehors de leur bureau.
+    On dénombre 1 milliard de travailleurs nomades dans le monde en 2011
+
 
 ( < / à définir et détailler > )
 
