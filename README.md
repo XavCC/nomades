@@ -37,7 +37,9 @@ La mise en consensus de chaque proposition et sur chaque modification est un mor
 - Les pollinisateurs
 - Les aventuriers
 - Les réfugiers
-- Les 
+- Les faiseurs
+
+( < / à définir et détailler > )
 
 ## Le collaboratif dans le nomadisme
 
