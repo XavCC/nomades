@@ -39,7 +39,7 @@ La mise en consensus de chaque proposition et sur chaque modification est un mor
 - Les réfugiers
 - Les faiseurs
 - Semi nomadisme
-- Nomade
+- Nomade permanent
 
 
 D'après Wikipédia: 
