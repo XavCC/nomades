@@ -22,7 +22,7 @@ Je suis moi même en cours d'expérimentations par le faire soi même des pratiq
 
 ![]({{site.baseurl}}/https://framapic.org/TWrhbGvT7PPu/MNzdKIxgbMiy.jpg)
 
-## Comment contribuer à alimenter ces dépots? 
+## Comment contribuer et alimenter ces dépots? 
 
 Voici un bon exercice à faire soi même documenté sur multibao.org qui vous permettra d'apprendre en faisant:
 
