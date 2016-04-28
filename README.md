@@ -20,7 +20,7 @@ Stéphane Langlois pratique le nomadisme comme choix de vie et comme philosophie
 Thomas Wolff est un nomade occasionnel dans ses diférents projets entrepreneuriaux et dans ces réalisations diverses et variées.
 Je suis moi même en cours d'expérimentations par le faire soi même des pratiques collaboratives et du nomadisme quotidient dans le cadre d'un tour nommé #LabOSe pour Laboratoire Open Source d’expériences libres et distribuées. Cette démarche et ces réalisation sont documentées en temps réél [ICI](https://hackpad.com/LabOSe-Laboratoire-Open-Source-dexpriences-libres-et-distribues-SA2B7bDZcbV)
 
-![]({{site.baseurl}}/https://framapic.org/TWrhbGvT7PPu/MNzdKIxgbMiy.jpg)
+![](https://framapic.org/TWrhbGvT7PPu/MNzdKIxgbMiy)
 
 ## Comment contribuer et alimenter ces dépots? 
 
