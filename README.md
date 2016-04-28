@@ -68,7 +68,7 @@ D'après Wikipédia:
 
 ## Le Nomadisme à l'âge des internets
 
-Pourquoi la révolution numérique et les internets sont une opportunités de pratiquer le nomadisme? 
+Pourquoi la révolution numérique et les internets sont une opportunité de pratiquer le nomadisme? 
 
 ### A considerer sans abus de langage que toute la connaisssance de l'humanité est aujourd'hui disponible en ligne
 Cela ne la rend pas accessible, cela favorise son partage mais pas son appropiration. Il semble être un enjeu de taille consiérable de faire voyager les savoirs physiquement en plus de leurs partages numériques. Le nomade est ainsi un vecteur important de la transition de notre société tout autant qu'il est celui qui peuple les espaces à défricher et refertilise les terreaux abimés. 
