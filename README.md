@@ -12,7 +12,24 @@ Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mi
 
 ## Qu'est ce qui à généré cette intiative?
 
+Une rencontre provoquée au détour d'une étape sur un tour itinérant avec [Stéphane Langlois](http://scopyleft.fr/) à Nantes lors d'une collaboration sur le plateforme [Multibao](http://www.multibao.org/). 
+
+[Thomas Wolff](https://twitter.com/thom_wolff) est la personne qui a favoriser cette rencontre. Nous avons travaillé tous trois ensmeble à l'améliration de multibao pendant une semaine à Nantes. 
+
+Stéphane Langlois pratique le nomadisme comme choix de vie et comme philosophie au quotidien et dans son travail de développeur web.
+Thomas Wolff est un nomade occasionnel dans ses diférents projets entrepreneuriaux et dans ces réalisations diverses et variées.
+Je suis moi même en cours d'expérimentations par le faire soi même des pratiques collaboratives et du nomadisme quotidient dans le cadre d'un tour nommé #LabOSe pour Laboratoire Open Source d’expériences libres et distribuées. Cette démarche et ces réalisation sont documentées en temps réél [ICI](https://hackpad.com/LabOSe-Laboratoire-Open-Source-dexpriences-libres-et-distribues-SA2B7bDZcbV)
+
+![]({{site.baseurl}}/https://framapic.org/TWrhbGvT7PPu/MNzdKIxgbMiy.jpg)
+
 ## Comment contribuer à alimenter ces dépots? 
+
+Voici un bon exercice à faire soi même documenté sur multibao.org qui vous permettra d'apprendre en faisant:
+
+- [Je me teste](http://www.multibao.org/)
+
+Toute contribution est la bienvenue dans le respect des individus et de leurs vécus, la bienveillance envers chaque contribution apportée est une règle de base du bien faire ensemeble entre les différents contibuteurs. 
+La mise ne consensus de chaque proposition et sur chaque modification est un morceau de jardin à cultiver ensemble. 
 
 ## Les différents ensembles sociaux et culturels de nomades
 
