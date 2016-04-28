@@ -52,6 +52,18 @@ D'après Wikipédia:
 
 ( < / à définir et détailler > )
 
+<ul>
+<li><a href="/wiki/Gens_du_voyage" title="Gens du voyage">Gens du voyage</a></li>
+<li><a href="/wiki/Nomades_de_la_mer" title="Nomades de la mer">Nomades de la mer</a></li>
+<li><a href="/wiki/Nomade_du_sel" title="Nomade du sel">Nomade du sel</a></li>
+<li><a href="/wiki/Caravane_(v%C3%A9hicule)" title="Caravane (véhicule)">Caravane (véhicule)</a></li>
+<li><a href="/wiki/Gitan" title="Gitan" class="mw-redirect">Gitans</a>, <a href="/wiki/Roms" title="Roms">Roms</a></li>
+<li><a href="/wiki/Tente" title="Tente">Tente</a></li>
+<li><a href="/wiki/Travellers" title="Travellers">Travellers</a></li>
+<li><a href="/wiki/Am%C3%A9rindiens" title="Amérindiens">Amérindiens</a></li>
+<li><a href="/wiki/Nomadisme_num%C3%A9rique" title="Nomadisme numérique">Nomadisme numérique</a></li>
+</ul>
+
 ## Le collaboratif dans le nomadisme
 
 ## Le Nomadisme à l'âge des internets
