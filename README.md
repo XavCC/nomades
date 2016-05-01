@@ -8,7 +8,9 @@ Le nomade est celui qui se déplace. Il est celui qui peuple les territoires,act
 
 La volonté de partage des pratiques collaboratives et la nécessité de documentation des expérimentations réalisées poussent la justification de rendre visible le " comment faire ? " et le " bien faire ensemble ". 
 
-Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mise dans les communs de ce bien vivre ensemble est une source d'alimentation de la tansition qu'appelle une société en mutation. Les défis à résoudre concernant l'environnement, le capital naturel, la nouvelle économie, la transmission des savoirs sont le pas fertil du nomade. Pour le sens commun, la fertilité désigne à la fin du XXe siècle la capacité des personnes, des animaux ou des plantes à produire une descendance viable et abondante. Par extension, le terme de fertilité peut s'appliquer aux pâturages, aux plantes, au sol (fertilité des sols) ou au paysage, ainsi qu'à l'esprit humain
+Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mise dans les communs de ce bien vivre ensemble est une source d'alimentation de la tansition qu'appelle une société en mutation. Les défis à résoudre concernant l'environnement, le capital naturel, la nouvelle économie, la transmission des savoirs sont le pas fertil du nomade. Pour le sens commun, la fertilité désigne à la fin du XXe siècle la capacité des personnes, des animaux ou des plantes à produire une descendance viable et abondante. Par extension, le terme de fertilité peut s'appliquer aux pâturages, aux plantes, au sol (fertilité des sols) ou au paysage, ainsi qu'à l'esprit humain.
+
+Cette organisation "Nomades" vise à documenter les pratique collaborative qui permettent le "vivre mobile".
 
 ## Qu'est ce qui à généré cette intiative?
 
