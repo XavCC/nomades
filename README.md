@@ -1,7 +1,7 @@
 # Nomades
 Le nomadisme est un mode de vie fondé sur le déplacement ; il est par conséquent un mode de peuplement matériel ou immatériel. La quête de nourriture, sous toutes notions, motive les déplacements des humains.
 
-Le nomade est celui qui se déplace. Il est celui qui peuple les territoires,active les courants, insufle la connaissance. C'est le besoin de se nourrir des fruits de la terre et des graines des savoirs qui le pousse à marcher le long des sentiers classiques dans dans les lisères non battues. 
+Le nomade est celui qui se déplace. Il est celui qui peuple les territoires, active les courants, insufle la connaissance. C'est le besoin de se nourrir des fruits de la terre et des graines des savoirs qui le pousse à marcher le long des sentiers classiques dans dans les lisères non battues. 
 
 
 ## Pourquoi ces dépots?
@@ -95,6 +95,16 @@ D'après Wikipédia:
 </ul>
 
 ## Le collaboratif dans le nomadisme
+
+Notre survie dépend bien plus de l’implication symbiotique élevée des organismes que de l’adaptation des individus par conditionnement. Plus la symbiose dans un écosystème est importante, plus une espèce à des chances de perdurer. Partager, Passer, Offrir… ceci est un principe simple de survie de l’espèce, de notre espèce humaine.
+
+Les nomades sont des arpenteurs d'espaces physiques et de dimensions immatérielles. Ils sont des vecteurs de pratiques et d'expérineces et ils ont ainsi l'opportunité d'être utilisateur des pratiques collaoratives. Ils ont une forme de responsabilité dans le partage et le transmission de ces pratiques collaboratives.
+
+La notion de travail collaboratif (peer production en anglais) n'est plus fondé sur l'organisation hiérarchisée traditionnelle, et plus spécifiquement un nouveau mode de travail et de nomadisme où collaborent de nombreuses personnes grâce aux technologies de l'information et de la communication, notamment les plates-formes internet.
+
+Les outils informatiques nouveaux permettent de maximiser la créativité et l'efficience d'un groupe associé à des projets d’envergure même si elles sont très dispersées dans l'espace et le temps.
+
+Le travail est souvent naturellement collectif et collaboratif, c'est-à-dire qu'il fait interagir plusieurs acteurs pour la réalisation de tâches qui visent à atteindre un but commun. Par exemple, le projet d'encyclopédie en ligne, libre et multilingue. Wikipédia est le résultat d'un travail collaboratif « en réseaux coopératifs ».
 
 
 
