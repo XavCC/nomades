@@ -55,6 +55,16 @@ Labyrinthe, revue de l'atelier interdisciplinaire, partage sur OpenBook "
 [La métaphore économique de la pollinisation](http://labyrinthe.revues.org/4306) " écrit par Ariel Kyrou.
 
 - Les aventuriers
+
+Un aventurier est une personne, réelle ou fictive, qui cherche l'aventure, par goût ou par intérêt, ce qui le conduit à affronter des dangers divers.
+L'aventure est une suite de péripéties et de rebondissements, constituant le plus souvent la trame d'une histoire. Elle peut également se constituer autour d'un événement fortuit, de caractère singulier ou surprenant. Milan Kundera définit l'aventure comme une « découverte passionnée de l'inconnu ». L'expérience de l'aventure créer une excitation psychologique et physiologique qui peut être perçue comme négative (par ex. à cause de la peur) ou positive (ex. sensation de se sentir vivant).
+
+Dans l’histoire ancienne Démétrios de Pharos, Catilina ou Allectus peuvent être considéré comme des aventuriers. Au Moyen Âge le nom a été donné à des troupes de mercenaires comme les Grandes compagnies qui vendaient leurs services au plus offrant. 
+
+Plus tard le nom a aussi qualifié les pirates et corsaires.
+
+Aujour'hui [Paul Watson](https://fr.wikipedia.org/wiki/Paul_Watson) qui a fondé la Sea Shepherd Conservation Society, un groupe activiste dont la préoccupation majeure est la protection des océans, est un aventurier post moderne. 
+
 - Les réfugiers
 - Les faiseurs
 - Semi nomadisme
