@@ -77,3 +77,5 @@ Cela ne la rend pas accessible, cela favorise son partage mais pas son appropira
 Solutions de financement du nomadisme :
 
 - [Git money](http://gitmoney.io/#services)
+- [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
+- [The DAO hub](https://daohub.org/)
