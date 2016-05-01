@@ -44,12 +44,12 @@ Alors que le nombre de zones inaccessibles, non cartographiées ou inconnues dim
 Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Floraine Rochet pour l'ontention d'un certificat international d'écologie humaine à l'université de Pau. 
 
 - Les pollinisateurs
+
 Un pollinisateur est un vecteur qui à l’occasion de ses déplacements transporte des grains de pollen. On pourrait consentir à comparer la connaissance, les savoir-faire et les expéreinces à ce pollen. Ce faisant, le pollinisateur contribue au peuplement des espaces et à la pollinisation des communautés. 
 
+Le nombre et la diversité des pollinisateurs influent fortement sur la biodiversité et inversement, et la perte de diversité chez les pollinisateurs pourrait menacer la pérennité des communautés. Les pollinisateurs sont une source très importante de services écosystémiques ; les pollinisateurs sont essentiels aux processus d’évolution adaptative face à la sélection naturelle et aux changements globaux.
 
-Le nombre et la diversité des pollinisateurs influent fortement sur la biodiversité végétale et inversement, et la perte de diversité chez les pollinisateurs pourrait menacer la pérennité des communautés végétales2. Les pollinisateurs sont considérés comme une source très importante, voire vitale pour l’humanité (et pour de très nombreuses autres espèces) de services écosystémiques ; les pollinisateurs ont essentiels au maintien de la biodiversité et de la productivité agricole et aux processus d’évolution adaptative face à la sélection naturelle et aux changements globaux.
-
-Dans les pays industrialisés et dans les zones d'agriculture industrielle ou consommatrice de pesticide, la plupart des espèces pollinisatrices sont en voie de régression, sont menacés de disparition ou ont localement déjà disparu, ce qui préoccupe notamment les apiculteurs, les écologues et les agriculteurs.
+Dans les pays industrialisés et dans les zones rurale, la plupart des voyageurs pollinisateurs sont en voie de rarefaction. Ils sont menacés de disparition ou ont localement déjà disparu par la considération moderne que le partage est exclusivement numérique. Une vision post moderne du partage et de la pollinistation par le nomadisme apporterait une réponse plus cohérente face au défis socio et environnementaux.
 
 
 - Les aventuriers
