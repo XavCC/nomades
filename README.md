@@ -34,6 +34,15 @@ La mise en consensus de chaque proposition et sur chaque modification est un mor
 ## Les différents ensembles sociaux et culturels de nomades
 
 - Les voyageurs
+
+Le voyage est un déplacement dans l'espace, volontaire ou contraint, effectué vers un point plus ou moins éloigné dans un but personnel (tourisme, découverte...), professionnel ou autre (réfugiés de guerre, politiques ou climatiques). Le voyage peut être motivé par des activités sportives ou socio-culturelles ou de grands événements.
+
+Le voyageur est ainsi celui ou celle qui se meut par motivation de déplacement.
+
+Alors que le nombre de zones inaccessibles, non cartographiées ou inconnues diminuaient, le voyage s'est considérablement développé et démocratisé, au cours du XXe siècle avec l'avènement de moyens de transports modernes de plus en plus rapides et confortables, le chemin de fer d'abord, puis l'automobile et l'avion. Cette évolution s'est faite avec des conséquences négatives croissantes sur le plan de la consommation d'énergie et de carburants fossiles, de fragmentation des paysages et écosystèmes par les infrastructures de transport et d'émission de gaz à effet de serre et autres polluants.
+
+Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Floraine Rochet pour l'ontention d'un certificat international d'écologie humaine à l'université de Pau. 
+
 - Les pollinisateurs
 - Les aventuriers
 - Les réfugiers
@@ -50,7 +59,6 @@ D'après Wikipédia:
     On dénombre 1 milliard de travailleurs nomades dans le monde en 2011
 
 
-( < / à définir et détailler > )
 
 <ul>
 <li><a href="/wiki/Gens_du_voyage" title="Gens du voyage">Gens du voyage</a></li>
