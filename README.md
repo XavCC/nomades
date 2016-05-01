@@ -41,7 +41,7 @@ Le voyageur est ainsi celui ou celle qui se meut par motivation de déplacement.
 
 Alors que le nombre de zones inaccessibles, non cartographiées ou inconnues diminuaient, le voyage s'est considérablement développé et démocratisé, au cours du XXe siècle avec l'avènement de moyens de transports modernes de plus en plus rapides et confortables, le chemin de fer d'abord, puis l'automobile et l'avion. Cette évolution s'est faite avec des conséquences négatives croissantes sur le plan de la consommation d'énergie et de carburants fossiles, de fragmentation des paysages et écosystèmes par les infrastructures de transport et d'émission de gaz à effet de serre et autres polluants.
 
-Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Floraine Rochet pour l'ontention d'un certificat international d'écologie humaine à l'université de Pau. 
+Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Florian Rochet pour l'obtention d'un certificat international d'écologie humaine à l'université de Pau. 
 
 - Les pollinisateurs
 
@@ -51,6 +51,8 @@ Le nombre et la diversité des pollinisateurs influent fortement sur la biodiver
 
 Dans les pays industrialisés et dans les zones rurale, la plupart des voyageurs pollinisateurs sont en voie de rarefaction. Ils sont menacés de disparition ou ont localement déjà disparu par la considération moderne que le partage est exclusivement numérique. Une vision post moderne du partage et de la pollinistation par le nomadisme apporterait une réponse plus cohérente face au défis socio et environnementaux.
 
+Labyrinthe, revue de l'atelier interdisciplinaire, partage sur OpenBook "
+[La métaphore économique de la pollinisation](http://labyrinthe.revues.org/4306) " écrit par Ariel Kyrou.
 
 - Les aventuriers
 - Les réfugiers
