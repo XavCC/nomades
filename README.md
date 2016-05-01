@@ -63,7 +63,7 @@ Dans l’histoire ancienne Démétrios de Pharos, Catilina ou Allectus peuvent �
 
 Plus tard le nom a aussi qualifié les pirates et corsaires.
 
-Aujour'hui [Paul Watson](https://fr.wikipedia.org/wiki/Paul_Watson) qui a fondé la Sea Shepherd Conservation Society, un groupe activiste dont la préoccupation majeure est la protection des océans, est un aventurier post moderne. 
+Aujour'hui [Paul Watson](https://fr.wikipedia.org/wiki/Paul_Watson) qui a fondé la Sea Shepherd Conservation Society, un groupe activiste dont la préoccupation majeure est la protection des océans, est un aventurier post moderne. Jane Goodall, une primatologue, éthologue et anthropologue britannique,aventurière, elle est la première à avoir observé et rapporté que les chimpanzés utilisent des outils pour s'alimenter. Ses travaux ont profondément transformé les rapports homme-animal.
 
 - Les réfugiers
 - Les faiseurs
