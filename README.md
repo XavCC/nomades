@@ -99,7 +99,7 @@ D'après Wikipédia:
 
 Notre survie dépend bien plus de l’implication symbiotique élevée des organismes que de l’adaptation des individus par conditionnement. Plus la symbiose dans un écosystème est importante, plus une espèce à des chances de perdurer. Partager, Passer, Offrir… ceci est un principe simple de survie de l’espèce, de notre espèce humaine.
 
-Les nomades sont des arpenteurs d'espaces physiques et de dimensions immatérielles. Ils sont des vecteurs de pratiques et d'expérineces et ils ont ainsi l'opportunité d'être utilisateur des pratiques collaoratives. Ils ont une forme de responsabilité dans le partage et le transmission de ces pratiques collaboratives.
+Les nomades sont des arpenteurs d'espaces physiques et de dimensions immatérielles. Ils sont des vecteurs de pratiques et d'expériencesces et ils ont ainsi l'opportunité d'être utilisateurs des pratiques collaboratives. Ils ont une forme de responsabilité dans le partage et le transmission de ces pratiques collaboratives.
 
 La notion de travail collaboratif (peer production en anglais) n'est plus fondé sur l'organisation hiérarchisée traditionnelle. S'est ouvert avec l'évolution numérique un nouveau mode de travail et de nomadisme où collaborent de nombreuses personnes grâce aux technologies de l'information et de la communication, notamment les plates-formes internet.
 
