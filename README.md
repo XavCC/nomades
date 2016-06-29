@@ -75,6 +75,7 @@ Aujour'hui [Paul Watson](https://fr.wikipedia.org/wiki/Paul_Watson) qui a fondé
 
 D'après Wikipédia: 
 
+    Aujourd'hui,
     Le travail nomade concernerait entre 7 % et 10 % des salariés français.
     Le nomadisme [lequel ?] représenterait, quant à lui, 20 % de la population active.
     73 % des cadres français travaillent en dehors de leur bureau.
@@ -116,6 +117,11 @@ Pourquoi la révolution numérique et les internets sont une opportunité de pra
 
 -  ressouce IPSOS: [Les PME à l'heure du travail collaboratif et du nomadisme](http://www.ipsos.fr/decrypter-societe/2012-10-26-pme-l-heure-travail-collaboratif-et-nomadisme)
 
+Les langages des nomades à l'ére du numérique :
+
+- [Markdown](https://fr.wikipedia.org/wiki/Markdown), un syntaxe qui vous permet par exemple d'écrire et collaborer sur ce dépot github ou sur Wikipédia ou wordpress
+- English language, au délà des logiciels c'est une langue qui permet des intéractions avec lors de nombreuses rencontres en ligne et hors ligne.
+
 ### A considerer sans abus de langage que toute la connaisssance de l'humanité est aujourd'hui disponible en ligne
 Cela ne la rend pas accessible, cela favorise son partage mais pas son appropiration. Il semble être un enjeu de taille consiérable de faire voyager les savoirs physiquement en plus de leurs partages numériques. Le nomade est ainsi un vecteur important de la transition de notre société tout autant qu'il est celui qui peuple les espaces à défricher et refertilise les terreaux abimés. 
 
@@ -125,3 +131,6 @@ Solutions de financement du nomadisme :
 - [Git money](http://gitmoney.io/#services)
 - [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
 - [The DAO hub](https://daohub.org/)
+
+Solution d'hébergement :
+- [Hostanartist](http://www.hostanartist.com/)
