@@ -134,3 +134,4 @@ Solutions de financement du nomadisme :
 
 Solution d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
+- [15 Niche Alternatives to Airbnb](http://www.shareable.net/blog/15-niche-alternatives-to-airbnb)
