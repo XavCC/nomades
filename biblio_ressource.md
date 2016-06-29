@@ -5,5 +5,5 @@
 
 - [D'un sac de graines à l'empire archaïque](https://youtu.be/X55HCa2_BHI) par Deleuze, podcast
 
-- Vidéo : [Les nomades, nos voisins d'hier et aujourd'hui par](https://www.youtube.com/watch?v=EIkTcWcXclw&feature=youtu.be)Dominique Careil
+- Vidéo : [Les nomades, nos voisins d'hier et aujourd'hui par](https://www.youtube.com/watch?v=EIkTcWcXclw&feature=youtu.be) Dominique Careil
 
