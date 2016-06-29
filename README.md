@@ -43,7 +43,7 @@ Le voyageur est ainsi celui ou celle qui se meut par motivation de déplacement.
 
 Alors que le nombre de zones inaccessibles, non cartographiées ou inconnues diminuaient, le voyage s'est considérablement développé et démocratisé, au cours du XXe siècle avec l'avènement de moyens de transports modernes de plus en plus rapides et confortables, le chemin de fer d'abord, puis l'automobile et l'avion. Cette évolution s'est faite avec des conséquences négatives croissantes sur le plan de la consommation d'énergie et de carburants fossiles, de fragmentation des paysages et écosystèmes par les infrastructures de transport et d'émission de gaz à effet de serre et autres polluants.
 
-Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Florian Rochet pour l'obtention d'un certificat international d'écologie humaine à l'université de Pau. 
+Une ressource sur les Réflexions sur le cheminement poëtique du voyage : [A quel schéma imaginatif obeit le voyage?](http://web.univ-pau.fr/RECHERCHE/CIEH/documents/CIEH_Florian_Rochet.pdf) par Florian Rochet _ pour l'obtention d'un certificat international d'écologie humaine à l'université de Pau_ . 
 
 - Les pollinisateurs
 
