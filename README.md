@@ -132,6 +132,6 @@ Solutions de financement du nomadisme :
 - [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
 - [The DAO hub](https://daohub.org/)
 
-Solution d'hébergement :
+Solutions d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
 - [15 Niche Alternatives to Airbnb](http://www.shareable.net/blog/15-niche-alternatives-to-airbnb)
