@@ -1,3 +1,4 @@
+# Bibliothèque ouverte de ressources écrites, audio ou video
 
 - [Nomadisme des scientifiques et nouvelle géopolitique du savoir](http://www.cairn.info/revue-internationale-des-sciences-sociales-2001-2-page-341.html) _" Si le processus d’universalisation pousse les scientifiques à se déplacer, c’est en raison de la complexité du savoir. Ses éléments codifiés (équations, résultats d’expériences, etc.) peuvent se diffuser facilement, mais l’essentiel de la pratique nécessaire pour y aboutir en même temps que pour les reproduire et les appliquer à des fins spécifiques dépend d’un savoir tacite incarné dans des êtres humains. Leurs mouvements ne s’inscrivent pas nécessairement dans la longue durée. "_
 
