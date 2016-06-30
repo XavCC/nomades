@@ -135,3 +135,6 @@ Solutions de financement du nomadisme :
 Solutions d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
 - [15 Niche Alternatives to Airbnb](http://www.shareable.net/blog/15-niche-alternatives-to-airbnb)
+
+Solutions de secours :
+- [Falling Fruit](http://fallingfruit.org/) is a massive, collaborative map of the urban harvest
