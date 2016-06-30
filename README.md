@@ -136,5 +136,5 @@ Solutions d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
 - [15 Niche Alternatives to Airbnb](http://www.shareable.net/blog/15-niche-alternatives-to-airbnb)
 
-Solutions de secours :
+Solutions de secours cas de pépins :
 - [Falling Fruit](http://fallingfruit.org/) is a massive, collaborative map of the urban harvest
