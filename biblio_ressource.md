@@ -7,3 +7,7 @@
 
 - Vidéo : [Les nomades, nos voisins d'hier et aujourd'hui par](https://www.youtube.com/watch?v=EIkTcWcXclw&feature=youtu.be) Dominique Careil
 
+- Numérique et postmoderne : [l'ere des flux](http://laurent.jullier.free.fr/TEL/LJ2009_Flussi.pdf)
+
+- [Comment le monde actuel a privatisé le silence](http://www.telerama.fr/idees/comment-le-monde-actuel-a-privatise-le-silence,138904.php#EI7rz5ziWytDzh4b.01),  Weronika Zarachowicz
+
