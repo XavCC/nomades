@@ -12,6 +12,8 @@ Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mi
 
 Cette organisation "Nomades" vise à documenter les pratique collaborative qui permettent le "vivre mobile".
 
+** Dépot initial souslicence  CC0 1.0 Universal **
+
 ## Qu'est ce qui à généré cette intiative?
 
 Une rencontre provoquée au détour d'une étape sur un tour itinérant avec [Stéphane Langlois](http://scopyleft.fr/) à Nantes lors d'une collaboration sur le plateforme [Multibao](http://www.multibao.org/). 
