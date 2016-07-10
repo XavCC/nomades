@@ -12,7 +12,10 @@ Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mi
 
 Cette organisation "Nomades" vise à documenter les pratique collaborative qui permettent le "vivre mobile".
 
-** Dépot initial souslicence  CC0 1.0 Universal **
+** Texte expliquant les questionnements : **
+* [Lier le nomadisme postmoderne à une volonté de comprendre ce qui a fait de nous une Humanité il y a des milliers d’années?](https://medium.com/@XavierCoadic/lier-le-nomadisme-postmoderne-%C3%A0-une-volont%C3%A9-de-comprendre-ce-qui-a-fait-de-nous-une-humanit%C3%A9-il-y-a-f0b0a37cb75d#.hii42tcom)
+
+** Dépot "Nomades" github initial sous licence  CC0 1.0 Universal **
 
 ## Qu'est ce qui à généré cette intiative?
 
