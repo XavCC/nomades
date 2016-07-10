@@ -12,3 +12,5 @@
 
 - [Comment le monde actuel a privatisé le silence](http://www.telerama.fr/idees/comment-le-monde-actuel-a-privatise-le-silence,138904.php#EI7rz5ziWytDzh4b.01),  Weronika Zarachowicz
 
+- [Michel Maffesoli. Du nomadisme. Vagabondages initiatiques. * note bibliographique * ](http://www.persee.fr/doc/agora_1268-5666_1997_num_10_1_1574_t12_0132_0000_2)
+
