@@ -135,7 +135,7 @@ Solutions de financement du nomadisme :
 
 - [Git money](http://gitmoney.io/#services)
 - [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
-- [The DAO hub](https://daohub.org/)
+
 
 Solutions d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
