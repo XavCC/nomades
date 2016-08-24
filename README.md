@@ -12,10 +12,10 @@ Le mode de vie du nomadisme repose sur le " bien vivre ensemble ". L'enjeu de mi
 
 Cette organisation "Nomades" vise à documenter les pratique collaborative qui permettent le "vivre mobile".
 
-** Texte expliquant les questionnements : **
+**Texte expliquant les questionnements**:
 * [Lier le nomadisme postmoderne à une volonté de comprendre ce qui a fait de nous une Humanité il y a des milliers d’années?](https://medium.com/@XavierCoadic/lier-le-nomadisme-postmoderne-%C3%A0-une-volont%C3%A9-de-comprendre-ce-qui-a-fait-de-nous-une-humanit%C3%A9-il-y-a-f0b0a37cb75d#.hii42tcom)
 
-** Dépot "Nomades" github initial sous licence  CC0 1.0 Universal **
+**Dépot intial "Nomades" github initial sous licence  CC0 1.0 Universal**
 
 ## Qu'est ce qui à généré cette intiative?
 
@@ -131,11 +131,10 @@ Les langages des nomades à l'ére du numérique :
 Cela ne la rend pas accessible, cela favorise son partage mais pas son appropiration. Il semble être un enjeu de taille consiérable de faire voyager les savoirs physiquement en plus de leurs partages numériques. Le nomade est ainsi un vecteur important de la transition de notre société tout autant qu'il est celui qui peuple les espaces à défricher et refertilise les terreaux abimés. 
 
 
-Solutions de financement du nomadisme :
+Solutions post moderne pour le nomadisme :
 
 - [Git money](http://gitmoney.io/#services)
 - [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
-
 
 Solutions d'hébergement :
 - [Hostanartist](http://www.hostanartist.com/)
