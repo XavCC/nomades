@@ -20,7 +20,7 @@ Le nombre et la diversité des pollinisateurs influent fortement sur la biodiver
 
 Dans les pays industrialisés et dans les zones rurale, la plupart des voyageurs pollinisateurs sont en voie de rarefaction. Ils sont menacés de disparition ou ont localement déjà disparu par la considération moderne que le partage est exclusivement numérique. Une vision post moderne du partage et de la pollinistation par le nomadisme apporterait une réponse plus cohérente face au défis socio et environnementaux.
 
-Labyrinthe, revue de l'atelier interdisciplinaire, partage sur OpenBook "
+Labyrinthe, revue de l'atelier interdisciplinaire, partage sur OpenBook 
 [La métaphore économique de la pollinisation](http://labyrinthe.revues.org/4306) " écrit par Ariel Kyrou.
 
 - Les aventuriers
