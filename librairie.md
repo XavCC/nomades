@@ -1,6 +1,6 @@
-# Librairie our Noamdes et non nomades
+# Librairie our Nomades et non nomades
 
-Bibliothèque ouverte d'écrits, d'audios ou de video sur les nomades, les pratiques, nomadismes.
+Bibliothèque ouverte d'écrits, d'audios ou de video sur les nomades, les pratiques,les nomadismes.
 
 ![By Paramount Television (eBay item front back) [Public domain], via Wikimedia Commons ](https://upload.wikimedia.org/wikipedia/commons/4/48/Leonard_Nimoy_William_Shatner_Spock%27s_Brain_Star_Trek_1968.JPG)
 
