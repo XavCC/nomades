@@ -1,3 +1,9 @@
+---
+title: Les Nomades
+description: Les différents ensembles sociaux et culturels de nomades. Tentatvie de défintion
+image_url: https://framapic.org/Rvvq2aGlD8Jd/ySNpqOQIFCEE.jpg
+---
+
 # Les différents ensembles sociaux et culturels de nomades
 
  _Tentatvie de défintion collective. Ce que l'on en nomme pas n'existe pas, ce que l'on nomme mal est alièné_.
