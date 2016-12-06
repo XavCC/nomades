@@ -1,3 +1,9 @@
+---
+title: Introduction au projet
+description: Donner à comprendre les nomdismes, documenter les pratiques collaboratives nomades, offrir à s'inspirer, reproduire ou modifier ses pratiques.
+image_url: https://framapic.org/Z5G50PcFxw8M/YKQQNZgiQlmF.jpg
+---
+
 # Nomades
 Le nomadisme est un mode de vie fondé sur le déplacement ; il est par conséquent un mode de peuplement matériel ou immatériel. La quête de nourriture, sous toutes notions matéreilles ou immatéreilles, motive les déplacements des humains.
 
