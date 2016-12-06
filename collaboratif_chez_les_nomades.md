@@ -1,4 +1,12 @@
-## Le collaboratif dans le nomadisme
+---
+title: Les pratiques collaboratives nomades
+description: 
+Les nomades sont des arpenteurs d'espaces physiques et de dimensions immatérielles. Ils sont des vecteurs de pratiques et d'expériencesces et ils ont ainsi l'opportunité d'être utilisateurs des pratiques collaboratives. Ils ont une forme de responsabilité dans le partage et le transmission de ces pratiques collabora
+image_url: https://framapic.org/pPBJE5NCPZiV/R9Z6ZdyxKOKX.jpg
+---
+
+
+# Le collaboratif dans le nomadisme
 
 Notre survie dépend bien plus de l’implication symbiotique élevée des organismes que de l’adaptation des individus par conditionnement. Plus la symbiose dans un écosystème est importante, plus une espèce à des chances de perdurer. Partager, Passer, Offrir… ceci est un principe simple de survie de l’espèce, de notre espèce humaine.
 
