@@ -1,14 +1,14 @@
 ---
 title: Librairie 
 description: Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes.
-image_url: https://upload.wikimedia.org/wikipedia/commons/4/48/Leonard_Nimoy_William_Shatner_Spock%27s_Brain_Star_Trek_1968.JPG
+image_url: https://framapic.org/PkD2T0pQToOR/Ld5Qac9danPW.jpg
 ---
 
 # Librairie pour Nomades et non nomades
 
 Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes.
 
-![By Paramount Television (eBay item front back) [Public domain], via Wikimedia Commons ](https://upload.wikimedia.org/wikipedia/commons/4/48/Leonard_Nimoy_William_Shatner_Spock%27s_Brain_Star_Trek_1968.JPG)
+![By Paramount Television (eBay item front back) [Public domain], via Wikimedia Commons ](https://framapic.org/PkD2T0pQToOR/Ld5Qac9danPW.jpg)
 
 - [Nomadisme des scientifiques et nouvelle géopolitique du savoir](http://www.cairn.info/revue-internationale-des-sciences-sociales-2001-2-page-341.html) _" Si le processus d’universalisation pousse les scientifiques à se déplacer, c’est en raison de la complexité du savoir. Ses éléments codifiés (équations, résultats d’expériences, etc.) peuvent se diffuser facilement, mais l’essentiel de la pratique nécessaire pour y aboutir en même temps que pour les reproduire et les appliquer à des fins spécifiques dépend d’un savoir tacite incarné dans des êtres humains. Leurs mouvements ne s’inscrivent pas nécessairement dans lalongue durée. "_
 
