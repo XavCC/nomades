@@ -1,3 +1,9 @@
+--
+title: Librairie 
+description: Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes.
+image_url: https://upload.wikimedia.org/wikipedia/commons/4/48/Leonard_Nimoy_William_Shatner_Spock%27s_Brain_Star_Trek_1968.JPG
+---
+
 # Librairie pour Nomades et non nomades
 
 Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes.
