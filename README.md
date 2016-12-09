@@ -1,5 +1,5 @@
 ---
-title: Introduction au projet
+title: Introduction au projet Nomades
 description: Donner à comprendre les nomadismes, documenter les pratiques collaboratives nomades, offrir à s'inspirer, reproduire ou modifier ses pratiques.
 image_url: https://framapic.org/Z5G50PcFxw8M/YKQQNZgiQlmF.jpg
 ---
