@@ -1,6 +1,6 @@
 ---
-title: Les Nomades
-description: Les différents ensembles sociaux et culturels de nomades. Tentative défintion
+title: Les Nomades: définitions
+description: Tentative de définitions d'ensembles cultures et sociaux.
 image_url: https://framapic.org/Rvvq2aGlD8Jd/ySNpqOQIFCEE.jpg
 ---
 
