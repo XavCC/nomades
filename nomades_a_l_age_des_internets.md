@@ -1,6 +1,6 @@
 ---
-title: Le Nomadisme à l'âge des internets
-description: Le nomade est ainsi un vecteur important de la transition de notre société tout autant qu'il est celui qui peuple les espaces à défricher et refertilise les terreaux abimés. 
+title: Nomadisme, technologies du cloud et nTIC
+description: En quoi la révolution technologique favorise t-elle les pratiques nomades? Présentation de quelques astuces.
 image_url: https://framapic.org/4WQccAMU5Nfr/7LrxWLXfl437.jpg
 ---
 
