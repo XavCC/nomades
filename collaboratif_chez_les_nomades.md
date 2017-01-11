@@ -1,7 +1,6 @@
 ---
 title: Les pratiques collaboratives nomades
 description: Quelle part de collaboratif y a t-il chez des nomades? Un regard par Xavier Coadic.
-image_url: https://framapic.org/pPBJE5NCPZiV/R9Z6ZdyxKOKX.jpg
 ---
 
 
