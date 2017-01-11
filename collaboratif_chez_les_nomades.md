@@ -1,6 +1,6 @@
 ---
 title: Les pratiques collaboratives nomades
-description: Les nomades sont des arpenteurs d'espaces physiques et de dimensions immatérielles. Ils sont des vecteurs de pratiques et d'expériencesces et ils ont ainsi l'opportunité d'être utilisateurs des pratiques collaboratives. Ils ont une forme de responsabilité dans le partage et le transmission de ces pratiques collabora
+description: Quelle part de collaboratif y a t-il chez des nomades? Un regard par Xavier Coadic.
 image_url: https://framapic.org/pPBJE5NCPZiV/R9Z6ZdyxKOKX.jpg
 ---
 
