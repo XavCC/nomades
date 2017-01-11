@@ -1,7 +1,6 @@
 ---
-title: Introduction au projet Nomades
-description: Donner à comprendre les nomadismes, documenter les pratiques collaboratives nomades, offrir à s'inspirer, reproduire ou modifier ses pratiques.
-image_url: https://framapic.org/Z5G50PcFxw8M/YKQQNZgiQlmF.jpg
+title: Le nomadisme de nos jours, qu'est-ce? 
+description: Une initiation au nomadisme. Découvrez comment participer à l'expérience de mise en commun d'astuces entre nomades et comment participer à la co-écriture des fiches! A bientôt amis! 
 ---
 
 # Nomades
