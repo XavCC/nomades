@@ -1,7 +1,6 @@
 ---
 title: Nomadisme, technologies du cloud et nTIC
 description: En quoi la révolution technologique favorise t-elle les pratiques nomades? Présentation de quelques astuces.
-image_url: https://framapic.org/4WQccAMU5Nfr/7LrxWLXfl437.jpg
 ---
 
 
