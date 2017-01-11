@@ -1,5 +1,5 @@
 ---
-title: Les Nomades: définitions
+title: Les Nomades - définitions
 description: Tentative de définitions d'ensembles cultures et sociaux.
 image_url: https://framapic.org/Rvvq2aGlD8Jd/ySNpqOQIFCEE.jpg
 ---
