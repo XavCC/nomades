@@ -1,6 +1,6 @@
 ---
-title: Librairie 
-description: Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes.
+title: Librairie pour nomades
+description: Bibliothèque ouverte d'écrits, d'audios ou de videos sur les nomades, les pratiques, les nomadismes. A enrichir à plusieurs :).
 image_url: https://framapic.org/PkD2T0pQToOR/Ld5Qac9danPW.jpg
 ---
 
