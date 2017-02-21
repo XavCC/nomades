@@ -49,4 +49,4 @@ Les chemins de la transition doivent être envisagés à l'image d'une framework
 
 - [Falling Fruit](http://fallingfruit.org/) is a massive, collaborative map of the urban harvest
 - [Se nourrir avec la nature](http://www.multibao.org/#nomades/camps/blob/master/indie_camp_kerbors_2016/manger_l_existant.md)
-- [Couchsurfing] pour pas dormier dehors
+- [Couchsurfing](https://www.couchsurfing.com) pour pas dormir dehors
