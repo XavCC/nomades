@@ -16,11 +16,11 @@ Cela ne la rend pas accessible, cela favorise son partage mais pas son appropria
 # Solutions post moderne pour le nomadisme 
 
 
-Chemins de la Transition - Roadbook
+Chemins de la Transition - [Roadbook](https://hackpad.com/C5597xf374n.js?format=html-notitle)
 Les "Chemins de la Transition' sont un projet de mise en synergie des lieux de transition. Il s'agit de passer d'une somme de lieux isolés à un système de lieux reliés. 
 Les chemins de la transition doivent être envisagés à l'image d'une framework, et d'un commun, sur lequel vont pouvoir se greffer des projets portés par une diversités d'acteurs s'adressant à une diversité de publics autour d'une diversité d'enjeux. 
 
-<script src="https://hackpad.com/C5597xf374n.js?format=html-notitle"></script><noscript><div>View <a href="https://hackpad.com/C5597xf374n">Chemins de la Transition - Roadbook</a> on Hackpad.</div></noscript>
+[Expérimentation et documentation](https://hackpad.com/C5597xf374n.js?format=html-notitle)
 
 ### Lieux pour travailleurs nomades 
 
