@@ -18,7 +18,9 @@ Un répertoire numérique d'objets nomades regroupe des fiches interactives, cr�
 
 Dans certains cas, lLors de la création d'une fiche, un identifiant unique est attribué automatiquement au objet - par les affaires maritimes... La fiche, qui comprend l'identifiant, devient ainsi le miroir du objet - sur lequel l'identifiant doit être manuellement inscrit. Il n'est pas obligatoire de remplir ces fiches pour faire circuler librement les objets, c'est juste un plus... Cela améliore la traçabilité.
 
-Tous les objets peuvent devenir
+Tous les objets peuvent devenir nomades
+
+## Objets SDF
 
 Les objets sont "SDF" quand 
 1. ils n'ont pas de propriétaires, 
@@ -27,6 +29,14 @@ Les objets sont "SDF" quand
 4. il n'y a pas de contrainte sociale appliquée directement pour faire respecter ces règles; leur application dépend du bon vouloir des participants à l'échange. En général, ils n'ont pas de localisation durable (ils sont "nomades"), mais ce n'est pas obligatoire... 
 
 Un propriétaire peut conférer à un objet qui est domicilié chez lui (dont il est le propriétaire), la qualité d'objet SDF de facto. En indiquant, par exemple, des conditions de circulation très permissives sur l'objet. Le flou juridique est bien souvent ce qui confère à un média ce statut de manière informelle. Ex: le livre SDF. Mais il n'existe aucune limite à l'imagination, et il est toujours possible de mentionner sur un média d'autres conditions de circulation. Par exemple, "prière de me laisser sur un banc", "dans une cabine", etc
+
+Un Objet SDF est un objet qui n'est pas domicilié. Ce qui signifie que l'objet n'est pas rattaché de façon permanente à une personne ou à une zone. A l'inverse, si l'objet est domicilié, il doit revenir à la personne ou à la zone en question, selon les modalités qu'il aura fixé.
+
+Un Objet Domicilié peut être nomade s'il appartient à une personne ou une zone qui est elle-même mobile. C'est à dire, qui n'est elle-même pas domiciliée. Sauf qu'il s'agit dans le cadre d'une personne, d'une domiciliation par rapport au lieu (dans un sens, vous "appartenez" au lieu).
+
+Pour compliquer encore un peu la chose, l'objet peut être domicilié dans une zone nomade, mais la zone peut changer fréquemment de gérant ou de propriétaire. Dans ce cas, il est domicilié dans la zone nomade.
+
+SDF signifie donc, objet orphelin. Cela étant, l'objet peut avoir trouvé une famille d'accueil temporaire. Si la personne décide d'adopter l'objet, c'est à dire de le domicilier chez elle, l'objet perd alors son Statut d'objet SDF. 
 
 ## Autres status d'objet
 
