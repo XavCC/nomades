@@ -1,5 +1,5 @@
 ---
-title: Nomadisme, technologies du cloud et nTIC
+title: Nomadisme, technologies du clou et nTIC
 description: En quoi la révolution technologique favorise t-elle les pratiques nomades ? Présentation de quelques astuces.
 ---
 
@@ -12,16 +12,19 @@ La mobilité est en enjeu majeur du début du 21ème siècle. Son impact sur la 
 ### A considerer sans abus de discours que toute la connaisssance de l'humanité est aujourd'hui disponible en ligne
 Cela ne la rend pas accessible, cela favorise son partage mais pas son appropriation. Il semble être un enjeu de taille considérable de faire voyager les savoirs physiquement en plus de leurs partages numériques. Le nomade est ainsi un vecteur important de la transition de notre société tout autant qu'il est celui qui peuple les espaces à défricher et refertilise les terreaux abimés. 
 
+### Quotes
 
-# Solutions post moderne pour le nomadisme 
+> Le cloud n'éxiste pas ! C'est juste l'ordianteur de quelqu'un d'autre
+
+## Solutions post moderne pour le nomadisme 
 
 
-Chemins de la Transition - [Roadbook](https://hackpad.com/C5597xf374n.js?format=html-notitle)
+Chemins de la Transition - ~~[Roadbook](https://hackpad.com/C5597xf374n.js?format=html-notitle)~~
 
 Les "Chemins de la Transition' sont un projet de mise en synergie des lieux de transition. Il s'agit de passer d'une somme de lieux isolés à un système de lieux reliés. 
 Les chemins de la transition doivent être envisagés à l'image d'une framework, et d'un commun, sur lequel vont pouvoir se greffer des projets portés par une diversités d'acteurs s'adressant à une diversité de publics autour d'une diversité d'enjeux. 
 
-[Expérimentation et documentation](https://hackpad.com/C5597xf374n.js?format=html-notitle)
+~~[Expérimentation et documentation](https://hackpad.com/C5597xf374n.js?format=html-notitle)~~
 
 ### Lieux pour travailleurs nomades 
 
@@ -37,8 +40,8 @@ Les chemins de la transition doivent être envisagés à l'image d'une framework
 
 ### Argent différemment
 
-- [Git money](http://gitmoney.io/#services)
-- [Duniter](https://fr.duniter.org/ucoin-rename-duniter/)
+- ~~[Git money](http://gitmoney.io/#services)~~ 
+- [Duniter](https://duniter.org/fr/)
 - [Liberapay](https://fr.liberapay.com/)
 
 ### Solutions d'hébergement 
