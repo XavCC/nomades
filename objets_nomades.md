@@ -20,9 +20,17 @@ Dans certains cas, lLors de la création d'une fiche, un identifiant unique est 
 
 Tous les objets peuvent devenir
 
+Les objets sont "SDF" quand 
+1. ils n'ont pas de propriétaires, 
+2. ils n'ont pas de propriétaire connu, sont perdus, se trouvent dans un relais média sdf..., 
+3. ils contiennent en eux-mêmes leurs propres règles, ou conditions de circulation, qui sont incitatives (elles poussent à faire re-circuler le média après ou avant usage), 
+4. il n'y a pas de contrainte sociale appliquée directement pour faire respecter ces règles; leur application dépend du bon vouloir des participants à l'échange. En général, ils n'ont pas de localisation durable (ils sont "nomades"), mais ce n'est pas obligatoire... 
+
+Un propriétaire peut conférer à un objet qui est domicilié chez lui (dont il est le propriétaire), la qualité d'objet SDF de facto. En indiquant, par exemple, des conditions de circulation très permissives sur l'objet. Le flou juridique est bien souvent ce qui confère à un média ce statut de manière informelle. Ex: le livre SDF. Mais il n'existe aucune limite à l'imagination, et il est toujours possible de mentionner sur un média d'autres conditions de circulation. Par exemple, "prière de me laisser sur un banc", "dans une cabine", etc
+
 ## Autres status d'objet
 
-### paltonique
+### Platonique
 
 L'objet platonique est un objet qui n'en est pas vraiment un... au sens où ce n'est pas tant son existence concrète en tant qu'objet en soi qui compte, que certaines de ses propriétés abstraites, telles que la fonction, la localisation.
 
